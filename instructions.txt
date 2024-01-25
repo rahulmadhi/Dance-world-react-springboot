@@ -1,0 +1,7 @@
+1) download backend api	
+2) https://mega.nz/file/QwxQgapK#w9ptHJeTBEP3NC1mNZKoHrLVroeQ-ix368eK1o2LhLU
+2) install JDK
+3) install sql server ( root password)
+4) install mysql workbench 
+5) java -jar danceapp.jar
+6) access the swagger file using this http://localhost:8082/swagger-ui.html#/
